@@ -1,8 +1,9 @@
 name: test-env
 dependencies:
 - python>=3.5
-- pip
+- tesserocr
 - pyodbc
+- pip
 - pip:
     - absl-py==0.8.1
     - alabaster==0.7.12
@@ -322,7 +323,6 @@ dependencies:
     - tensorframes==0.2.9
     - termcolor==1.1.0
     - terminado==0.8.3
-    - tesserocr==2.5.1
     - testpath==0.4.4
     - text-unidecode==1.3
     - Theano==1.0.4
