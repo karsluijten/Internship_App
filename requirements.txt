@@ -230,7 +230,7 @@ PyJWT==1.7.1
 pykwalify==1.7.0
 pyLDAvis==2.1.2
 PyMuPDF==1.17.4
-pyodbc==4.0.26
+pyodbc
 pyOpenSSL==19.0.0
 pyparsing==2.4.5
 PyPDF2==1.26.0
