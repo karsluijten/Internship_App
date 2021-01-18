@@ -1,5 +1,4 @@
 absl-py==0.8.1
-achmeamodelmanagement==1.2.0
 alabaster==0.7.12
 alembic==1.4.2
 altair==4.1.0
